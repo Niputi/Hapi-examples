@@ -1,0 +1,21 @@
+{
+  "name": "hapi-realtime-timeline",
+  "version": "1.0.0",
+  "description": "A realtime timeline with hapijs and nes.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "build-client": "browserify public/main.js >  public/bundle.js",
+    "start": "npm run build-client; node server"
+  },
+  "author": "Patrick Meier",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "hapi": "^17.0.0",
+    "hapi-rethinkdb": "https://github.com/Niputi/hapi-rethinkdb/tarball/master",
+    "inert": "^5.0.0",
+    "nes": "^9.0.0",
+    "rethinkdbdash": "^2.3.31"
+  }
+}
