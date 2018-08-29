@@ -1,0 +1,25 @@
+{
+  "name": "hapi17-bell-jwt2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bell": "9.*.*",
+    "boom": "^7.2.0",
+    "dotenv": "^6.0.0",
+    "hapi": "17.*.*",
+    "hapi-auth-jwt2": "8.*.*",
+    "hapi-dev-errors": "3.*.*",
+    "hapi-redis2": "^2.*.*",
+    "iron": "^5.0.4",
+    "jsonwebtoken": "8.*.*",
+    "uuid": "^3.3.2",
+    "yar": "^9.0.1"
+  }
+}
