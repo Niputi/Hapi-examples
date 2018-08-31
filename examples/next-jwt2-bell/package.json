@@ -1,0 +1,24 @@
+{
+    "name": "custom-server-hapi",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "nodemon app.js",
+        "build": "next build",
+        "start": "NODE_ENV=production node app.js"
+    },
+    "dependencies": {
+        "bell": "^9.3.1",
+        "boom": "^7.2.0",
+        "cookie": "^0.3.1",
+        "dotenv": "^6.0.0",
+        "hapi": "^17.5.4",
+        "hapi-auth-jwt2": "^8.1.0",
+        "hapi-dev-errors": "^3.0.1",
+        "hapi-redis2": "^2.0.4",
+        "jsonwebtoken": "^8.3.0",
+        "next": "latest",
+        "react": "^16.0.0",
+        "react-dom": "^16.0.0",
+        "uuid": "^3.3.2"
+    }
+}
