@@ -14,24 +14,24 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "bell": "^9.3.1",
-    "boom": "^7.2.0",
+    "bell": "9.x.x",
+    "boom": "7.x.x",
     "cookieparser": "^0.1.0",
-    "dotenv": "^6.0.0",
-    "hapi": "^17.5.4",
-    "hapi-auth-jwt2": "^8.1.0",
-    "hapi-dev-errors": "^3.0.1",
-    "hapi-nuxt": "^1.0.1",
-    "hapi-redis2": "^2.0.4",
-    "jsonwebtoken": "^8.3.0",
-    "nuxt": "^1.0.0",
-    "uuid": "^3.3.2"
+    "dotenv": "6.x.x",
+    "hapi": "17.x.x",
+    "hapi-auth-jwt2": "8.x.x",
+    "hapi-dev-errors": "3.x.x",
+    "hapi-nuxt": "1.x.x",
+    "hapi-redis2": "2.x.x",
+    "jsonwebtoken": "8.x.x",
+    "nuxt": "^1.x.x",
+    "uuid": "3.x.x"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
-    "eslint": "^4.15.0",
-    "eslint-friendly-formatter": "^3.0.0",
-    "eslint-loader": "^1.7.1",
-    "eslint-plugin-vue": "^4.0.0"
+    "babel-eslint": "8.x.x",
+    "eslint": "4.x.x",
+    "eslint-friendly-formatter": "3.x.x",
+    "eslint-loader": "1.x.x",
+    "eslint-plugin-vue": "4.x.x"
   }
 }

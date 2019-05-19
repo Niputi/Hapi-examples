@@ -7,18 +7,18 @@
         "start": "NODE_ENV=production node app.js"
     },
     "dependencies": {
-        "bell": "^9.3.1",
-        "boom": "^7.2.0",
+        "bell": "9.x.x",
+        "boom": "7.x.x",
         "cookie": "^0.3.1",
-        "dotenv": "^6.0.0",
-        "hapi": "^17.5.4",
-        "hapi-auth-jwt2": "^8.1.0",
-        "hapi-dev-errors": "^3.0.1",
-        "hapi-redis2": "^2.0.4",
-        "jsonwebtoken": "^8.3.0",
+        "dotenv": "6.x.x",
+        "hapi": "17.x.x",
+        "hapi-auth-jwt2": "8.x.x",
+        "hapi-dev-errors": "3.x.x",
+        "hapi-redis2": "2.x.x",
+        "jsonwebtoken": "8.x.x",
         "next": "latest",
-        "react": "^16.0.0",
-        "react-dom": "^16.0.0",
-        "uuid": "^3.3.2"
+        "react": "16.x.x",
+        "react-dom": "16.x.x",
+        "uuid": "3.x.x"
     }
 }

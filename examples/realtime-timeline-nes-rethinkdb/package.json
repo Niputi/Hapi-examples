@@ -11,11 +11,11 @@
   "author": "Patrick Meier",
   "license": "Apache-2.0",
   "dependencies": {
-    "faker": "^4.1.0",
-    "hapi": "^17.0.0",
+    "faker": "4.x.x",
+    "hapi": "^17.x.x",
     "hapi-rethinkdb": "https://github.com/Niputi/hapi-rethinkdb/tarball/master",
-    "inert": "^5.0.0",
-    "nes": "^9.0.0",
-    "rethinkdbdash": "^2.3.31"
+    "inert": "5.x.x",
+    "nes": "9.x.x",
+    "rethinkdbdash": "2.x.x"
   }
 }

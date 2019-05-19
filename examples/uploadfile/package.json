@@ -1,5 +1,5 @@
 {
-  "name": "uploadFileTest",
+  "name": "upload_file_test",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^17.5.3",
-    "inert": "^5.1.0"
+    "hapi": "17.x.x",
+    "inert": "5.x.x"
   }
 }

@@ -10,16 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bell": "9.*.*",
-    "boom": "^7.2.0",
-    "dotenv": "^6.0.0",
-    "hapi": "17.*.*",
-    "hapi-auth-jwt2": "8.*.*",
-    "hapi-dev-errors": "3.*.*",
-    "hapi-redis2": "^2.*.*",
-    "iron": "^5.0.4",
-    "jsonwebtoken": "8.*.*",
-    "uuid": "^3.3.2",
-    "yar": "^9.0.1"
+    "bell": "9.x.x",
+    "boom": "7.2.0",
+    "dotenv": "6.x.x",
+    "hapi": "17.x.x",
+    "hapi-auth-jwt2": "8.x.",
+    "hapi-dev-errors": "3.x.x",
+    "hapi-redis2": "2.x.x",
+    "iron": "5.x.x",
+    "jsonwebtoken": "8.x.x",
+    "uuid": "3.x.x",
+    "yar": "9.x.x"
   }
 }
